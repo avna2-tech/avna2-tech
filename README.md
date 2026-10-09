@@ -25,13 +25,13 @@ Project	What it shows
 Azure Medallion Lakehouse (coming soon)	End-to-end bronze, silver, gold pipeline with data quality checks and CI/CD
 Knowledge Graph Data Pipeline (coming soon)	Entity and relationship ingestion with a retrieval layer for LLM use cases
 Metadata-Driven Ingestion Framework (coming soon)	Reusable, config-driven ingestion with incremental loads and SCD Type 2
-Certifications
 
-Add your current Microsoft/Azure certifications here, with the year each was earned.
+
+
 
 Let's connect
-LinkedIn: [](https://www.linkedin.com/in/varsha-ahirwal/)
-Email: ahirwalvarsha92@gmail.com
-
-
+LinkedIn: LinkedIn: [Varsha Ahirwal](https://www.linkedin.com/in/varsha-ahirwal/)
+Certifications : DP-700 Microsoft Certified: Azure Data Engineer Associate (2026) 
+                 Claude Certified Associate, Foundations: CCAO-F
+                 
 I'm always happy to talk about data architecture, lakehouse design, and building reliable data platforms for AI.
